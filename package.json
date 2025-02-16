@@ -13,7 +13,8 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "socket.io": "^4.8.1",
-    "ts-node": "^10.9.2"
+    "ts-node": "^10.9.2",
+    "uuid": "^11.0.5"
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
